@@ -7,7 +7,7 @@
 - 📫 How to reach me **vefa.shukur@gmail.com**
 
 <br>
-## 🔗 Connect with me:
+##🔗 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/vəfa şükürova" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="vəfa şükürova" height="30" width="40"  /></a>
 <a href="https://fb.com/vəfa şükürova" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"  alt="vəfa şükürova" height="30" width="40" /></a>
